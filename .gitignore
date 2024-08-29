@@ -1,0 +1,25 @@
+# Arquivos de compilação Java
+*.class
+
+# Diretórios do Eclipse
+.project
+.classpath
+.settings/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+/build/
+target/
+out/
+
+# Drivers do WebDriver
+chromedriver.exe
+geckodriver.exe
